@@ -12,7 +12,7 @@ Admin can add,update or delete properties.
 Add new admin also.
 Admin can see the messages that is given by user.
  
-#User Panel: 
+# User Panel
 It is mandatory to login with a user account. 
 User can update his or her profile.
 User Search Property details and read it. 
