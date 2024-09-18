@@ -5,7 +5,7 @@ News management system have contained two panels:
 1)Admin panel 
 2)User panel 
 
-#Admin Panel: 
+# Admin Panel
 It is mandatory to login with an Admin account. 
 Admin can update his / her profile. 
 Admin can add,update or delete properties.
